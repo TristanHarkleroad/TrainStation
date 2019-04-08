@@ -1,6 +1,8 @@
 #headline {
-  color: black;
-  background-color: gray;
+  text-shadow: 1px 1px 2px black, 0 0 1em black, 0 0 0.2em white;
+  color: yellow;
+  background: url("../images/train_background.jpg");
+  background-size: contain;
   font-family: 'Abril Fatface', cursive;
   border-bottom: solid black 3px;
 }
